@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_gRPCServer", "Jaeger
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService", "GrpcService\GrpcService.csproj", "{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_GRPCClient", "Jaeger_GRPCClient\Jaeger_GRPCClient.csproj", "{2E643D9B-8CDE-4212-BB22-FA5FA8427983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_gRPCClient", "Jaeger_gRPCClient\Jaeger_gRPCClient.csproj", "{2E643D9B-8CDE-4212-BB22-FA5FA8427983}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
