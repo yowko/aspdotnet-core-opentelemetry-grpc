@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_gRPCServer", "Jaeger_gRPCServer\Jaeger_gRPCServer.csproj", "{A51F197F-0150-4070-B96D-B99DE7152F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService", "GrpcService\GrpcService.csproj", "{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_GRPCClient", "Jaeger_GRPCClient\Jaeger_GRPCClient.csproj", "{2E643D9B-8CDE-4212-BB22-FA5FA8427983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51F197F-0150-4070-B96D-B99DE7152F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51F197F-0150-4070-B96D-B99DE7152F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51F197F-0150-4070-B96D-B99DE7152F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51F197F-0150-4070-B96D-B99DE7152F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFCECB4-9A32-49A6-9474-64AAA4723C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
