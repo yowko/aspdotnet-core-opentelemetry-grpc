@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService", "GrpcService\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaeger_gRPCClient", "Jaeger_gRPCClient\Jaeger_gRPCClient.csproj", "{2E643D9B-8CDE-4212-BB22-FA5FA8427983}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipkin_gRPCClient", "Zipkin_gRPCClient\Zipkin_gRPCClient.csproj", "{B704CDA1-7391-4A00-A246-78CA5751A03A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zipkin_gRPCService", "Zipkin_gRPCService\Zipkin_gRPCService.csproj", "{500389CD-F17A-4C71-ACD6-DE795CB5B1BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E643D9B-8CDE-4212-BB22-FA5FA8427983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B704CDA1-7391-4A00-A246-78CA5751A03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B704CDA1-7391-4A00-A246-78CA5751A03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B704CDA1-7391-4A00-A246-78CA5751A03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B704CDA1-7391-4A00-A246-78CA5751A03A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500389CD-F17A-4C71-ACD6-DE795CB5B1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500389CD-F17A-4C71-ACD6-DE795CB5B1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500389CD-F17A-4C71-ACD6-DE795CB5B1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500389CD-F17A-4C71-ACD6-DE795CB5B1BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
